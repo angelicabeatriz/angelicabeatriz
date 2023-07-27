@@ -1,5 +1,5 @@
 - Olá, eu sou @angelicabeatriz
-- Atualmente estou cursando Sistemas de Informação, estou no 6º periodo.
+- Atualmente estou cursando Sistemas de Informação, estou no 8º periodo.
 - Trabalho atualmente no ramo da contabilidade.
 
 <!---
